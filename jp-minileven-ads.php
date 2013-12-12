@@ -1,6 +1,6 @@
 <?php
 /*
- * Plugin Name: Jetpack Mobile Theme Ads
+ * Plugin Name: Mobile Theme Ads for Jetpack
  * Plugin URI: http://wordpress.org/extend/plugins/jetpack-mobile-theme-ads/
  * Description: Adds Adsense ads after the content on post pages, in Jetpack Mobile theme
  * Author: Jeremy Herve
@@ -9,7 +9,7 @@
  * License: GPL2+
  * Text Domain: jetpack
  */
- 
+
 // Check if we are on mobile
 // Props @saracannon http://ran.ge/2012/12/05/parallax-and-mobile/
 function jp_mini_ads_is_mobile_or_tablet() {
