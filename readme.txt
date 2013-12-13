@@ -1,4 +1,4 @@
-=== Mobile Theme Ads for Jetpock ===
+=== Mobile Theme Ads for Jetpack ===
 Contributors: jeherve
 Tags: WordPress.com, Jetpack, mobile, minileven, adsense, ads
 Requires at least: 3.5
