@@ -2,7 +2,7 @@
 Contributors: jeherve
 Tags: WordPress.com, Jetpack, mobile, minileven, adsense, ads
 Requires at least: 3.8
-Tested up to: 3.9.1
+Tested up to: 4.0
 Stable tag: 1.1
 
 Adds ads before or after your posts and pages, in Jetpack's Mobile theme
